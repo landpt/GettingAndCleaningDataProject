@@ -24,5 +24,5 @@ write.table(tidy, file="tidy.txt" ,sep = ",", row.names = FALSE)
 
 
 
-Author: landpt
-Date: 23th November 2014
+* Author: landpt
+* Date: 23th November 2014
