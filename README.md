@@ -4,7 +4,7 @@ This R script is the work done for the course project of Getting and Cleaning Da
 
 The main task of this project was to create a R script that would combine and merge, as well as clean, different data sets collected from the accelerometers from the Samsung Galaxy S smartphones.
 
-As such, this R script is comprised by 5 main different tasks, that are as follows:
+As such, this R script is comprised by four main different tasks, that are as follows:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
